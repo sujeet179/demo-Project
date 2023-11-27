@@ -1,0 +1,164 @@
+
+1) Date : 14-10-2023
+Name : Javed
+Email : javed.absoft@gmail.com	
+Phone : 9766164220
+
+Remark :-Frontend : Created full project including Superadmin Login, AdminLogin, EmployeeLogin
+	In superAdmin - Company List,Add Company ,
+ 	AdminLogin-Create Employee,Show Employee,Create-Task CRUD,Lead form,Notification Form and CRUD
+	EmployeeLogin-Task CRUD, Notification Received  
+	
+	Backend: APIs- SuperAdmin CRUD,Company CRUD,Admin CRUD,Task CRUD,Employee CRUD,Notification CRUD,Lead CRUD 
+
+
+
+2) Date:18-10-2023
+Name : Javed
+Email : javed.absoft@gmail.com	
+Phone : 9766164220
+
+Remark :-Frontend : 
+1) Completed Lead notification functionality
+2) Completed Whatsapp functionality and test it
+	Backend: APIs- LeadNotification, TaskNotification 
+
+
+
+3) Date-18/10/2023
+
+Name-Ashlesha Shinde
+
+Email id-ashlesha.absoft@gmail.com
+
+Phone No-7385562528
+
+
+remark:Frontend : 
+1) Changes done in superadmin page
+
+2) Change background Image and adjust according requirement.
+
+3) Add icon image on top.
+
+4) Add email icon,password icon.
+
+
+
+4) Date : 26-10-2023
+Name : Javed
+Email : javed.absoft@gmail.com	
+Phone : 9766164220
+
+Remark :-Frontend :Created Vector Dashboard to show the notification count for Employee and Admin
+	 Backend : Created API to fetch the adminNotification Count,
+		   Created API to fetch the Employee Notification Count,
+
+
+5)Date : 8-10-2023
+Kajal Shinde
+
+1) Created Vector Dashboard to show the notification count for Employee and Admin
+2) make all mobile responsive admin login such as:
+- All Tasks and all view, edit ,delete modal
+Completed Tasks
+- add task form view edit delete modal
+- pending tasks view edit delete modal
+- overdue tasks view edit delete modal
+- Send Tasks view edit delete modal
+- admin Employee List view edit delete modal
+- admin Create Employee list view edit delete modal
+- create lead
+- lead list
+3) Add ShowPassword Icon when login
+4) Added Search Bar on every Page
+5) Disable Past StartTime and StartDate
+6) Send username and password to admin functionality 
+
+Shrutika
+Points:
+1. Done Graph n Dashboard responsive of Admin & Employee.
+2. Added function to labels to open lists of Admin & Employee.
+
+Path:
+1.app\vector\page.js
+2. app\vectorEmp\page.js
+
+Ashlesha Shinde
+
+Do the deployment of FollowUp Application || Ticket No-3617
+Points-
+1.Change all list in employee and superadmin module.
+2.Change the create employee form
+-Add validation
+-Add icons in the input fields.
+3.Add a pagination to employee received task page.
+4.Add a pagination to employee completed task page.
+4.Add a pagination to employee pending task page.
+Paths-
+1.app\compList\page.js
+2.app\empList\page.js
+3.app\subemp\page.js
+4.app\receivedTask\page.js
+5.app\completedByEmp\page.js
+6.app\pendingEmp\page.js
+Note-Check the We transfer
+
+
+Date:20/11/2023
+Name:Ashlesha Shinde
+points:
+Done the following changes:
+1) PopUp open wherever needed while create anything
+2) When TaslList is empty then show empty message along with Thead
+3) Change View,Edit,Delete sequence
+4) In Password field should have icon everywhere
+Paths-
+1.app\subemp\page.js
+2.app\leadForm\page.js
+3.app\taskForm\page.js
+4.app\taskFormInternal\page.js
+5.app\leadFormEmp\page.js
+
+Name:Kajal Shinde
+points:
+1) Export to excel functionality to all Lists
+2) pagination to all lists
+3) when task creation add the multiple assignee at a time
+DO THE CHANGES
+paths:
+app\completedByEmp\page.js
+app\compList\page.js
+app\taskList\page.js
+app\completedTask\page.js
+app\pending\page.js
+app\overdue\page.js
+app\sendTask\page.js
+app\subList\page.js
+app\leadList\page.js
+app\receivedTask\page.js
+app\completedByEmp\page.js
+app\pendingEmp\page.js
+app\overdueByEmployee\page.js
+app\sendTaskEmp\page.js
+app\leadListEmp\page.js
+
+
+Name:Shrutika Rajebhosale
+Changed the Vector dashboard for Admin
+Changed the Vector dashboard for Employee
+
+app\vector\page.js
+app\vectorEmp\page.js
+
+
+Name:Javed Shaikh
+Create Superadmin Dashboard
+Create Mark As Complete functionality
+
+app\vectorSuper\page.js
+app\receivedTask\page.js
+
+
+
+---------------------------------------------------------------------------------- 
